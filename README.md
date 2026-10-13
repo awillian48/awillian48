@@ -1,9 +1,12 @@
 <div align="center">
 
-  <!-- Header Banner Minimalista & Elegante -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=180&section=header&text=Anderson%20Barros&fontSize=42&fontColor=f0f6fc&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Front-end%20%26%20Core%20Logic&descSize=16&descAlignY=62&descColor=8b949e" width="100%" />
+  <!-- Nome & Apresentação com Efeito Typing Dinâmico -->
+  <h1>Anderson Barros</h1>
+  <p><strong>Software Developer | Front-end & Core Logic</strong></p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Front-end+Moderno+%26+Arquitetura+Limpa;TypeScript+%7C+JavaScript+%7C+Node.js;Fundamentos+com+C%2B%2B%2C+C%2C+Java+e+Python" alt="Especialidades" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Redes & Contato -->
   <a href="https://www.linkedin.com/in/anderson-barros00/" target="_blank">
